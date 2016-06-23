@@ -1,0 +1,5 @@
+use_frameworks!
+
+target ‘ParseChater’ do
+pod 'JSQMessagesViewController'
+end
